@@ -54,6 +54,11 @@ body::before {
   color: #000000;
 }
 
+.subtitle {
+  font-size: 2rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+
 .greeting {
   font-size: 1.2rem;
   margin-bottom: 30px;
